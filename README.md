@@ -1,1 +1,2 @@
-# bootbot
+# Bookbot Project
+Written in Python.
