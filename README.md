@@ -8,8 +8,8 @@ to be read by the program.
 
 ## Requirements
 
-Python 3.12.
-.txt files to analyze.
+- Python 3.12.
+- .txt files to analyze.
 
 ## Future Expansion
 
